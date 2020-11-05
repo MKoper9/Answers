@@ -2,12 +2,15 @@ TOOLS
 
 1. Określ stan swojej wiedzy o Gitlab.
 
-    Nigdy nie pracowałem z tym narzędziem. Z tego co wiem jest to narzędzie do zsrządzania projektem. Taki połączony Biitucket i Jira.
+    Nigdy nie pracowałem z tym narzędziem. Z tego co wiem jest to narzędzie do zarządzania projektem z połączoną. 
+    Dla mnie to taki połączony Bitbucket(Github) - system kontroli wersji i Jira - aplikacja do prowadzenia projektów.
 
 2. Określ stan swojej wiedzy o Trello? Wiesz co to kanban i czy kiedykolwiek w nim
    pracowałeś(łaś)?
    
-   Trello bardzo przypomina mi Jirę z którą trochę miałem do czynienia. Trello dla mnie jest to Nie pracowałem w nim. 
+   Trello bardzo przypomina mi Jirę z którą trochę miałem do czynienia. 
+   Jest to aplikacja do prowadzenia i organizowania projektów.
+   Kaban jest to wizualizacja stanu projektu. 
    
 3. Czy używałeś(łaś) kiedykolwiek Slite lub alternatywy (shared notes)?
 
@@ -39,7 +42,7 @@ to jakich?
     
 8. W jaki sposób debugujesz aplikacje?
    
-   Za pomocą wbudowanego w IDE debuggera. 
+   Za pomocą wbudowanego w danym IDE debuggera.
    
 9. Jakich narzędzi używasz do GITa?
 

@@ -26,3 +26,5 @@ czytelny projekt?
 
 5. Możesz wymienić inne metodyki niewymienione tutaj, które uważasz za istotne
 oraz ich wpływ na projekt.
+
+TDD - Test Driven Developement - metodyka polegająca na zaczynaniu pisania oprogramowania od testów nieistniejących metod, a następnie potem napisanie tych metod.
